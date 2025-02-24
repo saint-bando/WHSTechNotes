@@ -38,3 +38,6 @@ But for all this technology to work well, the software has to be really good and
 If I were designing an app for an NFL team it would have some decent features to help coaches make better decisions during games. The app would track live player stats suggest plays based on what's happening in the game, and send alerts if a player gets injured. To keep all this information organized I'd use databases for storing past data and dictionaries for the real-time stats. This setup would make it easy for coaches to quickly find and update information as the game goes on.
 
  For analyzing the data I'd use machine learning algorithms to predict which plays would work best based on past games and current conditions. To make the data easy to understand, I'd create dashboards with graphs showing player stats heat maps of where players are moving, and charts showing which plays are most successful. This way coaches can see important patterns and make smart decisions quickly, giving the team a better chance to win.
+
+# february 18, 2025   
+I learned about sorting algorithms in coding I watched a YouTube video that explained how bubble sort and quicksort work. It was really interesting because it showed me how these algorithms organize data and make programs run faster.
