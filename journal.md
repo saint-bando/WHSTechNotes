@@ -41,3 +41,7 @@ If I were designing an app for an NFL team it would have some decent features to
 
 # february 18, 2025   
 I learned about sorting algorithms in coding I watched a YouTube video that explained how bubble sort and quicksort work. It was really interesting because it showed me how these algorithms organize data and make programs run faster.
+
+# march 3, 2025 
+Last Friday, our class had a substitute teacher, and how we behaved really mattered. If we were respectful and followed the rules, it probably made their day a lot easier. But if we were noisy, didn't listen, or were rude, it likely made their job much harder and left them feeling stressed and unappreciated.
+If I could change anything, it would be to make sure everyone showed more respect and cooperation. Next time, I can personally make an effort to be more attentive and polite. This way, any substitute who comes in will feel respected and supported, making the day better for everyone.
