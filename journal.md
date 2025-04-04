@@ -52,3 +52,22 @@ Using slang translation tools in educational apps or chatbots can make communica
 Last Friday, our class had a substitute teacher, and how we behaved really mattered. If we were respectful and followed the rules, it probably made their day a lot easier. But if we were noisy, didn't listen, or were rude, it likely made their job much harder and left them feeling stressed and unappreciated.
 
 If I could change anything, it would be to make sure everyone showed more respect and cooperation. Next time, I can personally make an effort to be more attentive and polite. This way, any substitute who comes in will feel respected and supported, making the day better for everyone.
+
+# march 17, 2025 
+During spring break I engaged with technology in various ways. I primarily used social media for communication and entertainment, which kept me connected with friends. I also explored some new apps and games that were both enjoyable and mentally stimulating.
+
+Connecting this experience to our class, I noticed how problem-solving and coding skills come into play when navigating these platforms and understanding their functionality.
+
+# march 24, 2025
+March Madness has really changed with new technologies like AI and augmented reality. AI predictions can make things more exciting because they get people talking about who might win, even if it takes away some of the surprises that make the tournament fun.
+
+Social media and streaming services have also changed how fans enjoy the games. Now, we can share our thoughts and reactions right away, and we can watch games anywhere we want. This makes it feel more connected and engaging, making March Madness even more fun to follow.
+
+# march 31, 2025
+1. Right now, I’m feeling a bit stressed and tired, but also excited for the end of the school year. 
+2. The most stressful part of school lately has been preparing for the STAAR testing. It feels like there’s so much pressure to do good.
+3. To take care of myself during stressful times, I could try to get more sleep, take breaks when studying, and maybe even do some fun activities to relax.
+4. One goal I have for the rest of the school year is to improve my grades in math. I’ll stay motivated by setting small goals and rewarding myself when I reach them.
+5. When I’m feeling overwhelmed, I can talk to my best friend. I trust them because they always listen and give good advice.
+
+
